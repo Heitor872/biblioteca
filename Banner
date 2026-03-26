@@ -1,0 +1,26 @@
+html> 
+    <head>
+    <title>brasill</title>
+    <style>
+        .ee{color: brown(56,106,147);font-size:100;text-align: center;margin-top: 200px;}
+        .banner{color: black;}
+         .banner{background-image: url(https://img.freepik.com/fotos-premium/livros-antigos-na-mesa-de-madeira-e-copie-o-espaco_645697-5732.jpg?semt=ais_hybrid&w=740&q=80);
+            background-size: cover;/*ajusta a imagem para cobrir o banner*
+            /background-position: center;/*centraliza a imagem*/
+            background-repeat: no-repeat;height: 60vh;/*altura do banner(60% da altura da tela)*/width: 100%;
+            display: flex; justify-content: center;/* centraliza horizontalmente*/ align-items: center;/*centraliza verticalmente*/
+            color: black;/*cor do texto*/ text-align: center;}
+            .banner-conteudo {background-color: black(0,0,0,0.5);/*fundo preto transparente para destacar o texto*/
+                padding: 20px;border-radius: 10px;}
+                .bnt-banner
+        </style>
+        </head>
+        <body>
+            <section class="banner">
+                <div class="banner conteudo">
+                    <h1> biblioteca online </h1>
+                    <p> bem vindo(a)</p>
+                    </div>
+            </section>
+            </body>
+            </html>
